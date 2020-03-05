@@ -1,0 +1,76 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BowlingFirst,BowlingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,wheather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Jason Roy,09-Jun-15,OneDay,v New Zealand,BattingFirst, New Zealand,No,Yes,England,Bad,bad,Average,cloudy,LUSH,Out,1,0
+Jason Roy,12-Jun-15,OneDay,v New Zealand,loss, New Zealand,No,Yes, New Zealand,Average,Average,Average,windy,GREEN,Out,1,39
+Jason Roy,14-Jun-15,OneDay,v New Zealand,loss,England,Yes,No,England,Bad,Bad,Average,cloudy,DUSTY,In,1,9
+Jason Roy,17-Jun-15,OneDay,v New Zealand,win,England,Yes,No, New Zealand,Average,Bad,Average,sunny,DUSTY,Out,1,38
+Jason Roy,20-Jun-15,OneDay,v New Zealand,loss, New Zealand,No,Yes, New Zealand,Bad,Average,bad,windy,HARD,In,1,12
+Jason Roy,03-Sep-15,OneDay,v Australia,win,England,Yes,No, Australia,Good,Bad,bad,cloudy,HARD,Out,1,67
+Jason Roy,05-Sep-15,OneDay,v Australia,win,England,Yes,No,England,Average,Average,Average,rained recently,DUSTY,In,1,31
+Jason Roy,08-Sep-15,OneDay,v Australia,win, Australia,No,Yes, Australia,Good,Average,Average,sunny,HARD,In,1,63
+Jason Roy,11-Sep-15,OneDay,v Australia,win,England,Yes,No,England,Average,Good,Average,cloudy,LUSH,In,1,36
+Jason Roy,13-Sep-15,OneDay,v Australia,loss,England,Yes,No,England,Bad,Average,Average,cloudy,GREEN,In,1,4
+Jason Roy,11-Nov-15,OneDay,v Pakistan,win, Pakistan,No,Yes,Dubai,Bad,Average,Average,sunny,HARD,In,1,0
+Jason Roy,13-Nov-15,OneDay,v Pakistan,win, Pakistan,No,Yes,Sharja,Good,Bad,Average,windy,LUSH,Out,1,54
+Jason Roy,17-Nov-15,OneDay,v Pakistan,loss, Pakistan,No,Yes,abu dhabi,Bad,Bad,Average,same rainy day,DEAD,Out,1,7
+Jason Roy,20-Nov-15,OneDay,v Pakistan,win,England,Yes,No,abu dhabi,Good,Bad,Average,windy,DEAD,Out,1,102
+Jason Roy,03-Feb-16,OneDay,v South Africa,win, South Africa,No,Yes, South Africa,Good,Good,Average,cloudy,DEAD,In,1,48
+Jason Roy,06-Feb-16,OneDay,v South Africa,loss, South Africa,No,Yes, South Africa,Bad,Good,Average,sunny,LUSH,In,1,14
+Jason Roy,09-Feb-16,OneDay,v South Africa,win,England,Yes,No,England,Bad,Good,Average,windy,HARD,In,1,20
+Jason Roy,12-Feb-16,OneDay,v South Africa,win,England,Yes,No, South Africa,Bad,Bad,Average,rained recently,LUSH,Out,1,6
+Jason Roy,14-Feb-16,OneDay,v South Africa,win, South Africa,No,Yes,England,Bad,Bad,Bad,sunny,HARD,Out,1,8
+Jason Roy,21-Jun-16,OneDay,v Sri Lanka,win,England,Yes,No, Sri Lanka,Bad,Bad,Bad,windy,HARD,Out,1,3
+Jason Roy,24-Jun-16,OneDay,v Sri Lanka,loss, Sri Lanka,No,Yes,England,Good,Bad,Bad,windy,GREEN,Out,1,112
+Jason Roy,26-Jun-16,OneDay,v Sri Lanka,win,England,Yes,No,England,Bad,Bad,Bad,sunny,HARD,Out,1,5
+Jason Roy,29-Jun-16,OneDay,v Sri Lanka,win,England,Yes,No, Sri Lanka,Good,Bad,Bad,cloudy,DUSTY,Out,1,162
+Jason Roy,02-Jul-16,OneDay,v Sri Lanka,win,England,Yes,No, Sri Lanka,Average,Good,Bad,rained recently,HARD,In,1,34
+Jason Roy,24-Aug-16,OneDay,v Pakistan,win,England,Yes,No,Dubai,Good,Average,Average,windy,DEAD,In,1,65
+Jason Roy,27-Aug-16,OneDay,v Pakistan,win, Pakistan,No,Yes,sharjah,Bad,Good,Average,sunny,DEAD,In,1,0
+Jason Roy,30-Aug-16,OneDay,v Pakistan,loss,England,Yes,No,sharjah,Bad,Average,Average,same rainy day,GREEN,In,1,15
+Jason Roy,01-Sep-16,OneDay,v Pakistan,loss, Pakistan,No,Yes,abu dabi,Bad,Bad,Average,cloudy,LUSH,Out,1,14
+Jason Roy,04-Sep-16,OneDay,v Pakistan,win, Pakistan,No,Yes,abu dabi,Good,Bad,Average,windy,DUSTY,Out,1,87
+Jason Roy,07-Oct-16,OneDay,v Bangladesh,win, Bangladesh,No,Yes, Bangladesh,Good,Bad,Average,sunny,DUSTY,Out,1,41
+Jason Roy,09-Oct-16,OneDay,v Bangladesh,loss,England,Yes,No, Bangladesh,Bad,Good,Average,cloudy,DEAD,In,1,13
+Jason Roy,15-Jan-17,OneDay,v India,win,England,Yes,No,England,Good,Good,Bad,windy,DEAD,In,1,73
+Jason Roy,19-Jan-17,OneDay,v India,loss,England,Yes,No,England,Good,Good,Average,cloudy,LUSH,In,1,82
+Jason Roy,22-Jan-17,OneDay,v India,win, India,No,Yes,England,Good,Good,Good,sunny,LUSH,In,1,65
+Jason Roy,03-Mar-17,OneDay,v West Indies,loss, West Indies,No,Yes,England,Bad,Good,Good,cloudy,LUSH,In,1,13
+Jason Roy,05-Mar-17,OneDay,v West Indies,loss, West Indies,No,Yes, West Indies,Good,Good,Good,windy,GREEN,In,1,52
+Jason Roy,09-Mar-17,OneDay,v West Indies,win,England,Yes,No, West Indies,Bad,Good,Good,cloudy,DUSTY,In,1,17
+Jason Roy,05-May-17,OneDay,v Ireland,win, Ireland,No,Yes, Ireland,Bad,Bad,Good,cloudy,DUSTY,Out,1,0
+Jason Roy,07-May-17,OneDay,v Ireland,win,England,Yes,No, Ireland,Bad,Bad,Average,sunny,GREEN,Out,1,20
+Jason Roy,24-May-17,OneDay,v South Africa,win,England,Yes,No,England,Bad,Bad,Bad,cloudy,DEAD,Out,1,1
+Jason Roy,27-May-17,OneDay,v South Africa,win,England,Yes,No, South Africa,Bad,Bad,Bad,sunny,HARD,Out,1,8
+Jason Roy,29-May-17,OneDay,v South Africa,win,England,Yes,No, South Africa,Bad,Bad,Bad,rained recently,DUSTY,Out,1,4
+Jason Roy,01-Jun-17,OneDay,v Bangladesh,loss, Bangladesh,No,Yes, Bangladesh,Bad,Bad,Bad,sunny,GREEN,Out,1,1
+Jason Roy,06-Jun-17,OneDay,v New Zealand,win,England,Yes,No, New Zealand,Bad,Bad,Bad,same rainy day,HARD,Out,1,13
+Jason Roy,10-Jun-17,OneDay,v Australia,win, Australia,No,Yes, Australia,Bad,Bad,Bad,cloudy,DEAD,Out,1,4
+Jason Roy,27-Sep-17,OneDay,v West Indies,loss,England,Yes,No,England,Good,Bad,Bad,rained recently,DEAD,Out,1,84
+Jason Roy,29-Sep-17,OneDay,v West Indies,loss,England,Yes,No, West Indies,Good,Bad,Bad,windy,LUSH,Out,1,96
+Jason Roy,14-Jan-18,OneDay,v Australia,loss,England,Yes,No, Australia,Good,Good,Bad,cloudy,GREEN,In,1,180
+Jason Roy,19-Jan-18,OneDay,v Australia,loss, Australia,No,Yes, Australia,Bad,Good,Average,sunny,HARD,In,1,2
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
